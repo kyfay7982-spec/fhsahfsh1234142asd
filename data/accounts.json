@@ -67,6 +67,12 @@
         "type": "Scarlett[Beta]",
         "duration": "0",
         "activation_time": "1756133338"
+      },
+      {
+        "key": "9e855f7d-b519-4351-ae73-ed5c59aeefe2",
+        "type": "Ancient[Debug]",
+        "duration": "0",
+        "activation_time": "1756217881"
       }
     ],
     "is_admin": false,
