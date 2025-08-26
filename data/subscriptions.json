@@ -1,0 +1,58 @@
+[
+  {
+    "key": "36069b18-25a0-4c45-9763-ab71a0cbe9d2",
+    "type": "Ancient[Debug]",
+    "duration": "1d",
+    "used": true,
+    "used_by_uid": "2"
+  },
+  {
+    "key": "563469fb-0e82-4208-b7d2-0d76e3d47914",
+    "type": "Ancient[Debug]",
+    "duration": "0",
+    "used": true,
+    "used_by_uid": "1"
+  },
+  {
+    "key": "6dbe640f-cdb7-43bd-b5d6-309873688784",
+    "type": "Ancient[Beta]",
+    "duration": "0",
+    "used": true,
+    "used_by_uid": "1"
+  },
+  {
+    "key": "f90acfb4-dbfc-4d27-a3e3-369f873479bc",
+    "type": "Scarlett[Beta]",
+    "duration": "0",
+    "used": true,
+    "used_by_uid": "1"
+  },
+  {
+    "key": "eeb96d3b-7370-4584-ba16-d0ab2da0294d",
+    "type": "Nutahook[Alpha]",
+    "duration": "0",
+    "used": true,
+    "used_by_uid": "1"
+  },
+  {
+    "key": "d8954a11-8a7c-4c1b-9cc8-c34b29c01662",
+    "type": "Nutahook[Alpha]",
+    "duration": "0",
+    "used": true,
+    "used_by_uid": "2"
+  },
+  {
+    "key": "fc410957-e37c-4dec-a140-8096d36f9ba0",
+    "type": "Ancient[Beta]",
+    "duration": "0",
+    "used": true,
+    "used_by_uid": "2"
+  },
+  {
+    "key": "a3e060b6-5d9c-461f-b890-5a36325515a0",
+    "type": "Scarlett[Beta]",
+    "duration": "0",
+    "used": true,
+    "used_by_uid": "2"
+  }
+]

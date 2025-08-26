@@ -1,0 +1,98 @@
+[
+  {
+    "uid": 1,
+    "discord_user_id": "1358660167545389217",
+    "user_key": "28619490-27a0-4b98-9408-be37542a4099",
+    "username": "Admin",
+    "keys": [
+      {
+        "key": "563469fb-0e82-4208-b7d2-0d76e3d47914",
+        "type": "Ancient[Debug]",
+        "duration": "0",
+        "activation_time": "1756125686"
+      },
+      {
+        "key": "6dbe640f-cdb7-43bd-b5d6-309873688784",
+        "type": "Ancient[Beta]",
+        "duration": "0",
+        "activation_time": "1756127140"
+      },
+      {
+        "key": "f90acfb4-dbfc-4d27-a3e3-369f873479bc",
+        "type": "Scarlett[Beta]",
+        "duration": "0",
+        "activation_time": "1756127157"
+      },
+      {
+        "key": "eeb96d3b-7370-4584-ba16-d0ab2da0294d",
+        "type": "Nutahook[Alpha]",
+        "duration": "0",
+        "activation_time": "1756127177"
+      }
+    ],
+    "is_admin": true,
+    "allowed_subscription_types": [
+      "Ancient[Debug]",
+      "Ancient[Beta]",
+      "Nutahook[Alpha]",
+      "Scarlett[Beta]"
+    ],
+    "can_search": true,
+    "can_remove_key": true,
+    "can_delete_account": true,
+    "can_ban": true,
+    "can_unban": true,
+    "can_hwid_reset": true
+  },
+  {
+    "uid": 2,
+    "discord_user_id": "809751137099710514",
+    "user_key": "3ecdd521-ad98-4d35-85ad-dd475b075df1",
+    "username": "c0smo",
+    "keys": [
+      {
+        "key": "d8954a11-8a7c-4c1b-9cc8-c34b29c01662",
+        "type": "Nutahook[Alpha]",
+        "duration": "0",
+        "activation_time": "1756133181"
+      },
+      {
+        "key": "fc410957-e37c-4dec-a140-8096d36f9ba0",
+        "type": "Ancient[Beta]",
+        "duration": "0",
+        "activation_time": "1756133327"
+      },
+      {
+        "key": "a3e060b6-5d9c-461f-b890-5a36325515a0",
+        "type": "Scarlett[Beta]",
+        "duration": "0",
+        "activation_time": "1756133338"
+      }
+    ],
+    "is_admin": false,
+    "allowed_subscription_types": [],
+    "can_search": false,
+    "can_remove_key": false,
+    "can_delete_account": false,
+    "can_ban": false,
+    "can_unban": false,
+    "can_hwid_reset": false
+  },
+  {
+    "uid": 3,
+    "discord_user_id": "1297514489880776727",
+    "user_key": "d9dcbca3-5eb6-40a3-80f4-e3069b1792b2",
+    "username": "voone",
+    "keys": [],
+    "is_admin": true,
+    "allowed_subscription_types": [
+      "Scarlett[Beta]"
+    ],
+    "can_search": true,
+    "can_remove_key": false,
+    "can_delete_account": false,
+    "can_ban": false,
+    "can_unban": false,
+    "can_hwid_reset": false
+  }
+]
