@@ -11,3 +11,4 @@
 | 2 | c0smo | 3ecdd521-ad98-4d35-85ad-dd475b075df1 | 5A05-3C72-1A76-FCD4 | Nutahook[Alpha] | Permanent | Permanent |
 | 2 | c0smo | 3ecdd521-ad98-4d35-85ad-dd475b075df1 | 5A05-3C72-1A76-FCD4 | Ancient[Beta] | Permanent | Permanent |
 | 2 | c0smo | 3ecdd521-ad98-4d35-85ad-dd475b075df1 | 5A05-3C72-1A76-FCD4 | Scarlett[Beta] | Permanent | Permanent |
+| 2 | c0smo | 3ecdd521-ad98-4d35-85ad-dd475b075df1 | 5A05-3C72-1A76-FCD4 | Ancient[Debug] | Permanent | Permanent |
