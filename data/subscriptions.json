@@ -61,5 +61,12 @@
     "duration": "0",
     "used": true,
     "used_by_uid": "2"
+  },
+  {
+    "key": "2d32fd7e-2c0d-41d3-9613-2754a5c14c2f",
+    "type": "Scarlett[Beta]",
+    "duration": "1m",
+    "used": false,
+    "used_by_uid": "0"
   }
 ]
