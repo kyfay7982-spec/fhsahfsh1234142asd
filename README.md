@@ -1,4 +1,4 @@
-# Phoenix Subscription Status
+# Mantia Subscription Status
 
 ## Active Subscriptions
 
