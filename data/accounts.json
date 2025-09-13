@@ -73,6 +73,12 @@
         "type": "Ancient[Debug]",
         "duration": "0",
         "activation_time": "1756217881"
+      },
+      {
+        "key": "f1c93e0e-f9f0-4750-ba58-8bdac1f9078a",
+        "type": "Debug",
+        "duration": "0",
+        "activation_time": "1757745741"
       }
     ],
     "is_admin": false,
