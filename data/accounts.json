@@ -10,6 +10,12 @@
         "type": "Debug",
         "duration": "0",
         "activation_time": "1759866779"
+      },
+      {
+        "key": "d0715a86-18ae-4d57-ae3c-985987b303a7",
+        "type": "Winter[Debug]",
+        "duration": "0",
+        "activation_time": "1759867181"
       }
     ],
     "is_admin": false,
