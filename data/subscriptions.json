@@ -19,5 +19,12 @@
     "duration": "0",
     "used": true,
     "used_by_uid": "1"
+  },
+  {
+    "key": "dac42231-c85a-4531-8402-722f01f05639",
+    "type": "Starveil[Beta]",
+    "duration": "0",
+    "used": false,
+    "used_by_uid": "0"
   }
 ]
