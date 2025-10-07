@@ -10,7 +10,7 @@
     "key": "d0715a86-18ae-4d57-ae3c-985987b303a7",
     "type": "Winter[Debug]",
     "duration": "0",
-    "used": false,
-    "used_by_uid": "0"
+    "used": true,
+    "used_by_uid": "1"
   }
 ]
