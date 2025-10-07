@@ -22,6 +22,12 @@
         "type": "Winter[Alpha]",
         "duration": "0",
         "activation_time": "1759867197"
+      },
+      {
+        "key": "dac42231-c85a-4531-8402-722f01f05639",
+        "type": "Starveil[Beta]",
+        "duration": "0",
+        "activation_time": "1759867231"
       }
     ],
     "is_admin": false,
