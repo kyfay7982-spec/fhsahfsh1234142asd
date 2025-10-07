@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "uid": 1,
+    "discord_user_id": "809751137099710514",
+    "user_key": "793b1a9a-6ef2-48e4-aaf7-81f6d9f7768c",
+    "username": "c0smo_adm",
+    "keys": [
+      {
+        "key": "f2b84e10-db5d-40c8-96d9-fb751f1cbba3",
+        "type": "Debug",
+        "duration": "0",
+        "activation_time": "1759866779"
+      }
+    ],
+    "is_admin": false,
+    "allowed_subscription_types": [],
+    "can_search": false,
+    "can_remove_key": false,
+    "can_delete_account": false,
+    "can_ban": false,
+    "can_unban": false,
+    "can_hwid_reset": false
+  }
+]
