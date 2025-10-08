@@ -65,6 +65,6 @@
     "can_delete_account": true,
     "can_ban": true,
     "can_unban": true,
-    "can_hwid_reset": false
+    "can_hwid_reset": true
   }
 ]
