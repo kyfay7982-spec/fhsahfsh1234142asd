@@ -61,7 +61,7 @@
     "is_admin": true,
     "allowed_subscription_types": [],
     "can_search": true,
-    "can_remove_key": false,
+    "can_remove_key": true,
     "can_delete_account": false,
     "can_ban": false,
     "can_unban": false,
