@@ -63,7 +63,7 @@
     "can_search": true,
     "can_remove_key": true,
     "can_delete_account": true,
-    "can_ban": false,
+    "can_ban": true,
     "can_unban": true,
     "can_hwid_reset": false
   }
