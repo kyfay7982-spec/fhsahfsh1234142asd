@@ -60,7 +60,7 @@
     ],
     "is_admin": true,
     "allowed_subscription_types": [],
-    "can_search": false,
+    "can_search": true,
     "can_remove_key": false,
     "can_delete_account": false,
     "can_ban": false,
