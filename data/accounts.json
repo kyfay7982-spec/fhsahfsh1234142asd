@@ -61,7 +61,8 @@
     "is_admin": true,
     "allowed_subscription_types": [
       "Starveil[Beta]",
-      "Starveil[Debug]"
+      "Starveil[Debug]",
+      "Winter[Debug]"
     ],
     "can_search": true,
     "can_remove_key": true,
