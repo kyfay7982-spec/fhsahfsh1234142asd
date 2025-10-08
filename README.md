@@ -12,3 +12,4 @@
 | 2 | ayato | 0d126471-2ba9-40a3-956c-facd43905329 | N/A | Starveil[Debug] | Permanent | Permanent |
 | 2 | ayato | 0d126471-2ba9-40a3-956c-facd43905329 | N/A | Starveil[Beta] | Permanent | Permanent |
 | 2 | ayato | 0d126471-2ba9-40a3-956c-facd43905329 | N/A | Winter[Debug] | Permanent | Permanent |
+| 2 | ayato | 0d126471-2ba9-40a3-956c-facd43905329 | N/A | Winter[Alpha] | Permanent | Permanent |
