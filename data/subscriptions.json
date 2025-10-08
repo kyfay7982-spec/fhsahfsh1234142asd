@@ -38,7 +38,7 @@
     "key": "f3e20487-f97f-4c3c-8bc1-1c2d2e0b470e",
     "type": "Starveil[Debug]",
     "duration": "0",
-    "used": false,
-    "used_by_uid": "0"
+    "used": true,
+    "used_by_uid": "2"
   }
 ]
