@@ -54,5 +54,12 @@
     "duration": "0",
     "used": true,
     "used_by_uid": "2"
+  },
+  {
+    "key": "47ed7eaf-2f91-4a17-89df-05595ab6dfbb",
+    "type": "Winter[Alpha]",
+    "duration": "0",
+    "used": false,
+    "used_by_uid": "0"
   }
 ]
