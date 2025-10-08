@@ -62,7 +62,8 @@
     "allowed_subscription_types": [
       "Starveil[Beta]",
       "Starveil[Debug]",
-      "Winter[Debug]"
+      "Winter[Debug]",
+      "Winter[Alpha]"
     ],
     "can_search": true,
     "can_remove_key": true,
