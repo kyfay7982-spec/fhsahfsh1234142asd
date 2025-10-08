@@ -44,5 +44,27 @@
     "can_ban": false,
     "can_unban": false,
     "can_hwid_reset": false
+  },
+  {
+    "uid": 2,
+    "discord_user_id": "1358660167545389217",
+    "user_key": "0d126471-2ba9-40a3-956c-facd43905329",
+    "username": "ayato",
+    "keys": [
+      {
+        "key": "f3e20487-f97f-4c3c-8bc1-1c2d2e0b470e",
+        "type": "Starveil[Debug]",
+        "duration": "0",
+        "activation_time": "1759901667"
+      }
+    ],
+    "is_admin": false,
+    "allowed_subscription_types": [],
+    "can_search": false,
+    "can_remove_key": false,
+    "can_delete_account": false,
+    "can_ban": false,
+    "can_unban": false,
+    "can_hwid_reset": false
   }
 ]
