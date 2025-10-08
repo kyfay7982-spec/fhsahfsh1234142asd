@@ -58,7 +58,7 @@
         "activation_time": "1759901667"
       }
     ],
-    "is_admin": false,
+    "is_admin": true,
     "allowed_subscription_types": [],
     "can_search": false,
     "can_remove_key": false,
