@@ -59,7 +59,9 @@
       }
     ],
     "is_admin": true,
-    "allowed_subscription_types": [],
+    "allowed_subscription_types": [
+      "Starveil[Beta]"
+    ],
     "can_search": true,
     "can_remove_key": true,
     "can_delete_account": true,
