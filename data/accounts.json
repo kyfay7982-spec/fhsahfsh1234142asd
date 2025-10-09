@@ -68,6 +68,12 @@
         "type": "Winter[Alpha]",
         "duration": "0",
         "activation_time": "1759902011"
+      },
+      {
+        "key": "5c1c0a9a-0666-4e15-b2a9-fae86595fdb5",
+        "type": "Debug",
+        "duration": "0",
+        "activation_time": "1759995533"
       }
     ],
     "is_admin": true,
