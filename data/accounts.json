@@ -161,5 +161,27 @@
     "can_ban": false,
     "can_unban": false,
     "can_hwid_reset": false
+  },
+  {
+    "uid": 6,
+    "discord_user_id": "1345340964910137385",
+    "user_key": "674ee003-38d5-4127-b681-e34a9276d2c9",
+    "username": "isayGRENADA",
+    "keys": [
+      {
+        "key": "841d8ce2-2e4e-44ff-915f-31602e0c3127",
+        "type": "Starveil[Debug]",
+        "duration": "0",
+        "activation_time": "1759996265"
+      }
+    ],
+    "is_admin": false,
+    "allowed_subscription_types": [],
+    "can_search": false,
+    "can_remove_key": false,
+    "can_delete_account": false,
+    "can_ban": false,
+    "can_unban": false,
+    "can_hwid_reset": false
   }
 ]
