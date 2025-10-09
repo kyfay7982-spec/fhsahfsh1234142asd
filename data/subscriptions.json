@@ -89,5 +89,12 @@
     "duration": "0",
     "used": true,
     "used_by_uid": "1"
+  },
+  {
+    "key": "e1b87201-52db-42f0-8fa3-e6330aff8beb",
+    "type": "Starveil[Debug]",
+    "duration": "0",
+    "used": false,
+    "used_by_uid": "0"
   }
 ]
