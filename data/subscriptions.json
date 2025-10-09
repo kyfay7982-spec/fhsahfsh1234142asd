@@ -108,7 +108,7 @@
     "key": "d56f21ce-2750-4566-a05a-12d6844d5562",
     "type": "Debug",
     "duration": "0",
-    "used": false,
-    "used_by_uid": "0"
+    "used": true,
+    "used_by_uid": "1"
   }
 ]
