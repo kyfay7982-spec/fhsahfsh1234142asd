@@ -139,5 +139,27 @@
     "can_ban": false,
     "can_unban": false,
     "can_hwid_reset": false
+  },
+  {
+    "uid": 5,
+    "discord_user_id": "1387728141224771664",
+    "user_key": "66694462-bd8a-49ef-bea7-fe57c3b41013",
+    "username": "elmora",
+    "keys": [
+      {
+        "key": "4d88a4af-3031-4903-ad44-66bbbdea2f19",
+        "type": "Winter[Alpha]",
+        "duration": "0",
+        "activation_time": "1759996169"
+      }
+    ],
+    "is_admin": false,
+    "allowed_subscription_types": [],
+    "can_search": false,
+    "can_remove_key": false,
+    "can_delete_account": false,
+    "can_ban": false,
+    "can_unban": false,
+    "can_hwid_reset": false
   }
 ]
