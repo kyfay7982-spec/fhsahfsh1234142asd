@@ -80,7 +80,7 @@
     "key": "cfa408f8-fe77-4efc-ab03-da2171cd52d1",
     "type": "Winter[Alpha]",
     "duration": "0",
-    "used": false,
-    "used_by_uid": "0"
+    "used": true,
+    "used_by_uid": "1"
   }
 ]
