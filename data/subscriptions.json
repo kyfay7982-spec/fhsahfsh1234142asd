@@ -7,13 +7,6 @@
     "used_by_uid": "1"
   },
   {
-    "key": "d0715a86-18ae-4d57-ae3c-985987b303a7",
-    "type": "Winter[Debug]",
-    "duration": "0",
-    "used": true,
-    "used_by_uid": "1"
-  },
-  {
     "key": "f6e7f0bc-0d28-4723-a9dc-010e83518e32",
     "type": "Winter[Alpha]",
     "duration": "0",
@@ -73,7 +66,7 @@
     "key": "4b59dc1f-b4ed-411c-9fa5-801db3b9e7d9",
     "type": "Winter[Alpha]",
     "duration": "3d",
-    "used": false,
-    "used_by_uid": "0"
+    "used": true,
+    "used_by_uid": "3"
   }
 ]
