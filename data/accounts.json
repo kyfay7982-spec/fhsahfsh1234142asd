@@ -183,5 +183,27 @@
     "can_ban": false,
     "can_unban": false,
     "can_hwid_reset": false
+  },
+  {
+    "uid": 7,
+    "discord_user_id": "1400567141236740248",
+    "user_key": "309c3cbc-620c-4fdb-ac49-443de75b5c6d",
+    "username": "quiznos",
+    "keys": [
+      {
+        "key": "0ad9ae58-a6a4-466e-a524-fb001ec24df8",
+        "type": "Winter[Alpha]",
+        "duration": "5d",
+        "activation_time": "1760016760"
+      }
+    ],
+    "is_admin": false,
+    "allowed_subscription_types": [],
+    "can_search": false,
+    "can_remove_key": false,
+    "can_delete_account": false,
+    "can_ban": false,
+    "can_unban": false,
+    "can_hwid_reset": false
   }
 ]
