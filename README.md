@@ -8,4 +8,4 @@
 | 2 | ayato | 0d126471-2ba9-40a3-956c-facd43905329 | 631D-29F2-A0CC-1E17 | Starveil[Beta] | Permanent | Permanent |
 | 2 | ayato | 0d126471-2ba9-40a3-956c-facd43905329 | 631D-29F2-A0CC-1E17 | Winter[Debug] | Permanent | Permanent |
 | 2 | ayato | 0d126471-2ba9-40a3-956c-facd43905329 | 631D-29F2-A0CC-1E17 | Winter[Alpha] | Permanent | Permanent |
-| 3 | potnaya piska | f2490c2c-c2ae-44ee-8b84-9cc6f63da76d | 5A05-3C72-1A76-FCD4 | Winter[Alpha] | 3 days | 2 days, 23 hours, 42 minutes |
+| 3 | potnaya piska | f2490c2c-c2ae-44ee-8b84-9cc6f63da76d | 5A05-3C72-1A76-FCD4 | Winter[Alpha] | 3 days | 2 days, 23 hours, 40 minutes |
