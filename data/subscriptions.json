@@ -143,7 +143,7 @@
     "key": "75e1d41f-93ae-444a-a606-bed8ea9ed8e0",
     "type": "Winter[Alpha]",
     "duration": "3d",
-    "used": false,
-    "used_by_uid": "0"
+    "used": true,
+    "used_by_uid": "8"
   }
 ]
