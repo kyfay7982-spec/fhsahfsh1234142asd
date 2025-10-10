@@ -205,5 +205,27 @@
     "can_ban": false,
     "can_unban": false,
     "can_hwid_reset": false
+  },
+  {
+    "uid": 8,
+    "discord_user_id": "928793881871515710",
+    "user_key": "7e6d797d-fb1f-46d3-8f84-1f356a9cb468",
+    "username": "matrix",
+    "keys": [
+      {
+        "key": "75e1d41f-93ae-444a-a606-bed8ea9ed8e0",
+        "type": "Winter[Alpha]",
+        "duration": "3d",
+        "activation_time": "1760106477"
+      }
+    ],
+    "is_admin": false,
+    "allowed_subscription_types": [],
+    "can_search": false,
+    "can_remove_key": false,
+    "can_delete_account": false,
+    "can_ban": false,
+    "can_unban": false,
+    "can_hwid_reset": false
   }
 ]
