@@ -145,5 +145,12 @@
     "duration": "3d",
     "used": true,
     "used_by_uid": "8"
+  },
+  {
+    "key": "3ecdfbd3-2b30-4c00-9f64-98472c48b8d3",
+    "type": "Winter[Alpha]",
+    "duration": "7d",
+    "used": false,
+    "used_by_uid": "0"
   }
 ]
