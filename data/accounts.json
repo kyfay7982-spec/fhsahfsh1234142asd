@@ -249,5 +249,27 @@
     "can_ban": false,
     "can_unban": false,
     "can_hwid_reset": false
+  },
+  {
+    "uid": 10,
+    "discord_user_id": "851088390697779240",
+    "user_key": "0c4384e8-fa6e-42cc-ac4a-55a06be57436",
+    "username": "yanetorchy",
+    "keys": [
+      {
+        "key": "a09e561e-ec44-4ab1-ae40-11f8eaad97a1",
+        "type": "Winter[Alpha]",
+        "duration": "0",
+        "activation_time": "1760173842"
+      }
+    ],
+    "is_admin": false,
+    "allowed_subscription_types": [],
+    "can_search": false,
+    "can_remove_key": false,
+    "can_delete_account": false,
+    "can_ban": false,
+    "can_unban": false,
+    "can_hwid_reset": false
   }
 ]
