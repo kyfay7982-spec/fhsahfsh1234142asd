@@ -101,7 +101,14 @@
     "discord_user_id": "1270426005877686404",
     "user_key": "f2490c2c-c2ae-44ee-8b84-9cc6f63da76d",
     "username": "potnaya piska",
-    "keys": [],
+    "keys": [
+      {
+        "key": "c4b661b4-ac7b-4555-bf30-775a70082a97",
+        "type": "Starveil[Beta]",
+        "duration": "3d",
+        "activation_time": "1760255397"
+      }
+    ],
     "is_admin": false,
     "allowed_subscription_types": [],
     "can_search": false,
