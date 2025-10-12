@@ -159,5 +159,12 @@
     "duration": "0",
     "used": true,
     "used_by_uid": "10"
+  },
+  {
+    "key": "c4b661b4-ac7b-4555-bf30-775a70082a97",
+    "type": "Starveil[Beta]",
+    "duration": "3d",
+    "used": false,
+    "used_by_uid": "0"
   }
 ]
