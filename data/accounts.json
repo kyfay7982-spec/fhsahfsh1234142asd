@@ -107,6 +107,12 @@
         "type": "Starveil[Beta]",
         "duration": "3d",
         "activation_time": "1760255397"
+      },
+      {
+        "key": "25152041-11c3-4a4a-a346-5f622dfb2392",
+        "type": "Winter[Alpha]",
+        "duration": "3d",
+        "activation_time": "1760258329"
       }
     ],
     "is_admin": false,
