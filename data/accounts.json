@@ -239,6 +239,12 @@
         "type": "Winter[Alpha]",
         "duration": "7d",
         "activation_time": "1760170512"
+      },
+      {
+        "key": "2ba175e8-e1b9-4e40-93af-d74e438c6927",
+        "type": "Winter[Alpha]",
+        "duration": "3d",
+        "activation_time": "1760258259"
       }
     ],
     "is_admin": false,
