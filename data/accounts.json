@@ -101,14 +101,7 @@
     "discord_user_id": "1270426005877686404",
     "user_key": "f2490c2c-c2ae-44ee-8b84-9cc6f63da76d",
     "username": "potnaya piska",
-    "keys": [
-      {
-        "key": "4b59dc1f-b4ed-411c-9fa5-801db3b9e7d9",
-        "type": "Winter[Alpha]",
-        "duration": "3d",
-        "activation_time": "1759993932"
-      }
-    ],
+    "keys": [],
     "is_admin": false,
     "allowed_subscription_types": [],
     "can_search": false,
