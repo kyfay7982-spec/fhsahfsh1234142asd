@@ -21,6 +21,6 @@
 | 6 | isayGRENADA | 674ee003-38d5-4127-b681-e34a9276d2c9 | N/A | Starveil[Debug] | Permanent | Permanent |
 | 7 | quiznos | 309c3cbc-620c-4fdb-ac49-443de75b5c6d | 5A05-3C72-1A76-FCD4 | Winter[Alpha] | 5 days | 1 days, 23 hours, 48 minutes |
 | 8 | matrix | 7e6d797d-fb1f-46d3-8f84-1f356a9cb468 | 4375-2947-E10C-2958 | Winter[Alpha] | 3 days | 1 days, 43 minutes |
-| 9 | £rne$ter | 6e42d7a9-0300-4890-bb85-74b2ce7beaad | 5A05-3C72-1A76-FCD4 | Winter[Alpha] | 7 days | 5 days, 18 hours, 31 minutes |
+| 9 | £rne$ter | 6e42d7a9-0300-4890-bb85-74b2ce7beaad | 5A05-3C72-1A76-FCD4 | Winter[Alpha] | 7 days | 5 days, 18 hours, 30 minutes |
 | 9 | £rne$ter | 6e42d7a9-0300-4890-bb85-74b2ce7beaad | 5A05-3C72-1A76-FCD4 | Winter[Alpha] | 3 days | 2 days, 18 hours, 53 minutes |
 | 10 | yanetorchy | 0c4384e8-fa6e-42cc-ac4a-55a06be57436 | 5A05-3C72-1A76-FCD4 | Winter[Alpha] | Permanent | Permanent |
