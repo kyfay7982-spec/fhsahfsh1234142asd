@@ -195,14 +195,7 @@
     "discord_user_id": "1400567141236740248",
     "user_key": "309c3cbc-620c-4fdb-ac49-443de75b5c6d",
     "username": "quiznos",
-    "keys": [
-      {
-        "key": "0ad9ae58-a6a4-466e-a524-fb001ec24df8",
-        "type": "Winter[Alpha]",
-        "duration": "5d",
-        "activation_time": "1760016760"
-      }
-    ],
+    "keys": [],
     "is_admin": false,
     "allowed_subscription_types": [],
     "can_search": false,
