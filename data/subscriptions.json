@@ -185,8 +185,8 @@
     "key": "d80a59fb-6f54-4db7-8237-94246928b68a",
     "type": "Starveil[Beta]",
     "duration": "0",
-    "used": false,
-    "used_by_uid": "0"
+    "used": true,
+    "used_by_uid": "11"
   },
   {
     "key": "5a2bbfea-ba8b-4e42-a434-8897456716c9",
