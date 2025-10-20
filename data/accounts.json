@@ -212,14 +212,7 @@
     "discord_user_id": "1045394746438328320",
     "user_key": "6e42d7a9-0300-4890-bb85-74b2ce7beaad",
     "username": "\u00a3rne$ter",
-    "keys": [
-      {
-        "key": "3ecdfbd3-2b30-4c00-9f64-98472c48b8d3",
-        "type": "Winter[Alpha]",
-        "duration": "7d",
-        "activation_time": "1760170512"
-      }
-    ],
+    "keys": [],
     "is_admin": false,
     "allowed_subscription_types": [],
     "can_search": false,
