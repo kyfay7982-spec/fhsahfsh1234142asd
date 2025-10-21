@@ -255,12 +255,6 @@
         "type": "Starveil[Beta]",
         "duration": "0",
         "activation_time": "1760442701"
-      },
-      {
-        "key": "5a2bbfea-ba8b-4e42-a434-8897456716c9",
-        "type": "Starveil[Debug]",
-        "duration": "7d",
-        "activation_time": "1760442762"
       }
     ],
     "is_admin": false,
