@@ -194,5 +194,12 @@
     "duration": "7d",
     "used": true,
     "used_by_uid": "11"
+  },
+  {
+    "key": "680dc8c4-6be7-42df-aa52-811c025aa105",
+    "type": "Starveil[Beta]",
+    "duration": "7d",
+    "used": false,
+    "used_by_uid": "0"
   }
 ]
