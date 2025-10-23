@@ -265,5 +265,27 @@
     "can_ban": false,
     "can_unban": false,
     "can_hwid_reset": false
+  },
+  {
+    "uid": 12,
+    "discord_user_id": "1378163862028943471",
+    "user_key": "04e93ef6-60e2-4cbc-ac13-8160dd11d08f",
+    "username": "vinder",
+    "keys": [
+      {
+        "key": "680dc8c4-6be7-42df-aa52-811c025aa105",
+        "type": "Starveil[Beta]",
+        "duration": "7d",
+        "activation_time": "1761225950"
+      }
+    ],
+    "is_admin": false,
+    "allowed_subscription_types": [],
+    "can_search": false,
+    "can_remove_key": false,
+    "can_delete_account": false,
+    "can_ban": false,
+    "can_unban": false,
+    "can_hwid_reset": false
   }
 ]
