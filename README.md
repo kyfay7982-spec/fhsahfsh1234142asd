@@ -19,4 +19,4 @@
 | 6 | isayGRENADA | 674ee003-38d5-4127-b681-e34a9276d2c9 | N/A | Starveil[Debug] | Permanent | Permanent |
 | 10 | yanetorchy | 0c4384e8-fa6e-42cc-ac4a-55a06be57436 | 5A05-3C72-1A76-FCD4 | Winter[Alpha] | Permanent | Permanent |
 | 11 | gmic | 80cde1f0-92c4-46ec-81e2-b05b463b6c9a | B215-D60F-D63B-90BD | Starveil[Beta] | Permanent | Permanent |
-| 12 | vinder | 04e93ef6-60e2-4cbc-ac13-8160dd11d08f | 5A05-3C72-1A76-FCD4 | Starveil[Beta] | 7 days | 4 days, 15 hours, 22 minutes |
+| 12 | vinder | 04e93ef6-60e2-4cbc-ac13-8160dd11d08f | 5A05-3C72-1A76-FCD4 | Starveil[Beta] | 7 days | 4 days, 15 hours, 21 minutes |
