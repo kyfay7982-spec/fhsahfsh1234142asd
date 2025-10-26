@@ -20,4 +20,4 @@
 | 10 | yanetorchy | 0c4384e8-fa6e-42cc-ac4a-55a06be57436 | 5A05-3C72-1A76-FCD4 | Winter[Alpha] | Permanent | Permanent |
 | 11 | gmic | 80cde1f0-92c4-46ec-81e2-b05b463b6c9a | B215-D60F-D63B-90BD | Starveil[Beta] | Permanent | Permanent |
 | 12 | vinder | 04e93ef6-60e2-4cbc-ac13-8160dd11d08f | 5A05-3C72-1A76-FCD4 | Starveil[Beta] | 7 days | 4 days, 31 minutes |
-| 13 | Kitty | 48153580-47e4-4ed1-876c-cbce5d3e821d | N/A | Winter[Alpha] | 7 days | 6 days, 23 hours, 3 minutes |
+| 13 | Kitty | 48153580-47e4-4ed1-876c-cbce5d3e821d | N/A | Winter[Alpha] | 7 days | 6 days, 23 hours, 2 minutes |
