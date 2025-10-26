@@ -287,5 +287,27 @@
     "can_ban": false,
     "can_unban": false,
     "can_hwid_reset": false
+  },
+  {
+    "uid": 13,
+    "discord_user_id": "696993657038962709",
+    "user_key": "48153580-47e4-4ed1-876c-cbce5d3e821d",
+    "username": "Kitty",
+    "keys": [
+      {
+        "key": "e1fe356d-5c2b-40d3-89d0-9170e68c14ea",
+        "type": "Winter[Alpha]",
+        "duration": "7d",
+        "activation_time": "1761479869"
+      }
+    ],
+    "is_admin": false,
+    "allowed_subscription_types": [],
+    "can_search": false,
+    "can_remove_key": false,
+    "can_delete_account": false,
+    "can_ban": false,
+    "can_unban": false,
+    "can_hwid_reset": false
   }
 ]
