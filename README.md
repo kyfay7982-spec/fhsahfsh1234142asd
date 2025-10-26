@@ -14,11 +14,11 @@
 | 2 | ayato | 0d126471-2ba9-40a3-956c-facd43905329 | 631D-29F2-A0CC-1E17 | Winter[Debug] | Permanent | Permanent |
 | 2 | ayato | 0d126471-2ba9-40a3-956c-facd43905329 | 631D-29F2-A0CC-1E17 | Winter[Alpha] | Permanent | Permanent |
 | 2 | ayato | 0d126471-2ba9-40a3-956c-facd43905329 | 631D-29F2-A0CC-1E17 | Debug | Permanent | Permanent |
-| 3 | potnaya piska | f2490c2c-c2ae-44ee-8b84-9cc6f63da76d | 5A05-3C72-1A76-FCD4 | Winter[Alpha] | 14 days | 13 days, 18 hours, 46 minutes |
+| 3 | potnaya piska | f2490c2c-c2ae-44ee-8b84-9cc6f63da76d | 5A05-3C72-1A76-FCD4 | Winter[Alpha] | 14 days | 13 days, 18 hours, 45 minutes |
 | 4 | sematary | 9d06688a-6269-4f56-a89b-67ec83866f48 | N/A | Starveil[Beta] | Permanent | Permanent |
 | 5 | elmora | 66694462-bd8a-49ef-bea7-fe57c3b41013 | N/A | Winter[Alpha] | Permanent | Permanent |
 | 6 | isayGRENADA | 674ee003-38d5-4127-b681-e34a9276d2c9 | N/A | Starveil[Debug] | Permanent | Permanent |
 | 10 | yanetorchy | 0c4384e8-fa6e-42cc-ac4a-55a06be57436 | 5A05-3C72-1A76-FCD4 | Winter[Alpha] | Permanent | Permanent |
 | 11 | gmic | 80cde1f0-92c4-46ec-81e2-b05b463b6c9a | B215-D60F-D63B-90BD | Starveil[Beta] | Permanent | Permanent |
-| 12 | vinder | 04e93ef6-60e2-4cbc-ac13-8160dd11d08f | 5A05-3C72-1A76-FCD4 | Starveil[Beta] | 7 days | 3 days, 18 hours |
-| 13 | Kitty | 48153580-47e4-4ed1-876c-cbce5d3e821d | 5A05-3C72-1A76-FCD4 | Winter[Alpha] | 7 days | 6 days, 16 hours, 32 minutes |
+| 12 | vinder | 04e93ef6-60e2-4cbc-ac13-8160dd11d08f | 5A05-3C72-1A76-FCD4 | Starveil[Beta] | 7 days | 3 days, 17 hours, 59 minutes |
+| 13 | Kitty | 48153580-47e4-4ed1-876c-cbce5d3e821d | 5A05-3C72-1A76-FCD4 | Winter[Alpha] | 7 days | 6 days, 16 hours, 31 minutes |
